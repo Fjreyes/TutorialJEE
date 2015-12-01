@@ -19,7 +19,8 @@ public class SessionFilter implements Filter {
      * Default constructor. 
      */
     public SessionFilter() {
-        // TODO Auto-generated constructor stub
+     
+    	// TODO Auto-generated constructor stub
     }
 
 	/**
